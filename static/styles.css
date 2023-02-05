@@ -1,0 +1,13 @@
+.student-table th {
+    background-color: #90EE90;
+    color: white;
+  }
+  
+  .student-table tr:nth-child(even) {
+    background-color: #F5F5DC;
+  }
+  
+  .student-table tr:nth-child(odd) {
+    background-color: #FFFFFF;
+  }
+  
